@@ -1,18 +1,23 @@
-# Creating git submodules
+# Creating git submodules demo
 
-### To add a submodule to this repo:
+### Add submodules to this repo:
 
-```git submodule add https://github.com/<user>/<dependency> <anyname>```
+```git submodule add https://github.com/dhobdensa/submodule-1 submodule-1```
+
+```git submodule add https://github.com/dhobdensa/submodule-2 submodule-2```
 
 .gitmodules should have been generated now
 
----
-
-### To deep clone the project and the submodules
-
-use --recursive in your git clone command
+Push the changes to github
 
 ---
 
-### Try this: 
-```git clone --recursive https://github.com/dhobdensa/parent.git```
+### Deep clone the project and the submodules
+
+```git clone --recursive https://github.com/dhobdensa/git-submodules-demo.git```
+
+### Keep the parent up to date
+
+When you commit to submodules, the parent will automatically update to reference the latest commit.
+
+Remember to push these parent updates to github 
