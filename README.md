@@ -16,6 +16,8 @@ Push the changes to github
 
 ```git clone --recursive https://github.com/dhobdensa/git-submodules-demo.git```
 
+--
+
 ### Keep the parent up to date
 
 When you commit to submodules, the parent will automatically update to reference the latest commit.
