@@ -12,7 +12,7 @@ Push the changes to github
 
 ---
 
-### Deep clone the project and the submodules
+### Deep clone the project AND its submodules
 
 ```git clone --recursive https://github.com/dhobdensa/git-submodules-demo.git```
 
