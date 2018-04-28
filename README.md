@@ -22,6 +22,6 @@ Push the changes to github
 
 The parent will automatically update its references to submodules when they change.
 
-These updates must also bu pushed to github.
+These parent updates should also be pushed to github.
 
 So remember to push the parent project whenever you update a submodule.
