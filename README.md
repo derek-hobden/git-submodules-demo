@@ -16,7 +16,7 @@ Push the changes to github
 
 ```git clone --recursive https://github.com/dhobdensa/git-submodules-demo.git```
 
---
+---
 
 ### Keep the parent up to date
 
