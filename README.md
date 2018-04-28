@@ -20,6 +20,6 @@ Push the changes to github
 
 ### Keep the parent repo up to date
 
-When you commit to submodules, the parent will automatically update to reference the latest commit.
+The parent will keep updating its references to all submodules' latest commits.
 
-Remember to push these parent updates to github 
+So remember to push these updates in the parent project to github whenever you update a submodule.
