@@ -18,7 +18,7 @@ Push the changes to github
 
 ---
 
-### Keep the parent up to date
+### Keep the parent repo up to date
 
 When you commit to submodules, the parent will automatically update to reference the latest commit.
 
