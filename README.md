@@ -20,7 +20,7 @@ Push the changes to github
 
 ### Keep the parent repo up to date
 
-The parent will automatically update its references to submodules.
+The parent will automatically update its references to submodules when they change.
 
 These updates must also bu pushed to github.
 
