@@ -4,3 +4,6 @@
 [submodule "submodule-2"]
 	path = submodule-2
 	url = https://github.com/dhobdensa/submodule-2
+[submodule "submodule-3"]
+	path = submodule-3
+	url = https://github.com/dhobdensa/submodule-3
